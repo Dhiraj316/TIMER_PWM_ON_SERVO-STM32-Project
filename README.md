@@ -62,3 +62,5 @@ Connect your ST-LINK and target board via USB.
 Click the Run (Play) icon, leave the ST-LINK debug probe defaults, and click OK.
 
 The servo will immediately begin smoothly sweeping forward and backward.
+
+# I uploaded the zip file of this project in case there is any issue. just extract the zip file and import in the stmcube IDE for the reference.
